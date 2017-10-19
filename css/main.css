@@ -1,0 +1,79 @@
+body {
+  position: absolute;
+  background:#7ca72b;
+  width: 1350px;
+  height: 600px;
+}
+
+.cancha {
+  position: absolute;
+  background:#7ca72b;
+  border: 6px white solid;
+  width: 1340px;
+  height: 600px;
+}
+
+
+.circulo {
+  position: relative;
+  bottom: 310px;
+  left: 580px;
+  width: 180px;
+  height: 180px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  background:#7ca72b;
+  border: 6px white solid;
+}
+
+
+.arco {
+  position: relative;
+  bottom: -200px;
+  border: 6px white solid;
+  background:#7ca72b;
+  width: 80px;
+  height: 170px;
+}
+
+.arcod {
+  position: relative;
+  left:1258px;
+  border: 6px white solid;
+  background:#7ca72b;
+  width: 82px;
+  height: 170px;
+}
+
+.cir1  {
+  position: relative;
+  bottom: 280px;
+  left: 680px;
+  width: 25px;
+  height: 25px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  background: white;
+}
+
+.cir2  {
+  position: relative;
+  bottom: 100px;
+  left: 1220px;
+  width: 25px;
+  height: 25px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  background: white;
+}
+
+.cir3  {
+  position: relative;
+  bottom: 270px;
+  right: -80px;
+  width: 25px;
+  height: 25px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  background: white;
+}
